@@ -4,5 +4,5 @@ module.exports = {
   adminId: "7549513123", // مثلا: "1371365451"
   sponsorChannel: "SidkaShop", // بدون @
   channelWithAt: "@SidkaShop", // با @
-  botUsername: "SidkaV2rayNG_Bot", // بدون @
+  botUsername: "AmirSidkaV2rayNG_Bot", // بدون @
 };
