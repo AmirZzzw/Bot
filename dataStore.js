@@ -1,5 +1,3 @@
-// dataStore.js
-
 let configs = {};
 let userSteps = {};
 
@@ -13,7 +11,7 @@ module.exports = {
     configs[code] = {
       text,
       downloads: 0,
-      limit: 10, // می‌تونی اینو قابل‌تنظیم کنی
+      limit: 10,
       downloadedBy: [],
     };
     return code;
